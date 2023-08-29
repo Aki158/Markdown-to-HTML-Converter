@@ -2,6 +2,7 @@ import markdown
 import os
 import sys
 
+
 def main(argv):
     command = argv[1]
     inputfile = argv[2]
@@ -27,6 +28,7 @@ def htmlConverter(inputfile,outputfile):
     # outputfileに書き込む
     with open(outputfile,'w') as o:
         o.write(html)
-    
+
+
 if __name__ == '__main__':
     main(sys.argv)
