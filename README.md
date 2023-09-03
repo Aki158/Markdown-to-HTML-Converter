@@ -3,4 +3,4 @@ RecursionCSのBackendProject1_Markdown-to-HTML-Converterのリポジトリーに
 
 以下コマンドとその機能を提供するスクリプトです。
 
-・file-converter
+- file-converter
