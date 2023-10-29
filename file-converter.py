@@ -11,7 +11,7 @@ def main(argv):
     if not os.path.exists(inputfile):
         raise sys.stdout.buffer.write(b'Inputfile does not exist...\n')
     elif len(argv) != 4:
-        raise sys.stdout.buffer.write(b'Wrong usage!\nuseage : python3 file-converter.py inputfile outputfile\n')
+        raise sys.stdout.buffer.write(b'Wrong usage!\nuseage : python3 file-converter.py markdown inputfile outputfile\n')
     elif command != 'markdown':
         raise sys.stdout.buffer.write(b'Command not found...\n')
     else:
