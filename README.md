@@ -19,6 +19,10 @@ Webエンジニアやwebデザイナーなどのコンテンツクリエータ�
 
 基本的な機能として、MarkdownをHTMLへ変換することができます。
 
+また、MarkdownとHTMLそれぞれのファイルのイメージは、下記リンクから確認することができます。
+- [Markdown](https://github.com/Aki158/Markdown-to-HTML-Converter/blob/main/sample.md)
+- [HTML](https://github.com/Aki158/Markdown-to-HTML-Converter/blob/main/index.html)
+
 ### 追記
 このスクリプトの作成後に拡張版を作成しました。
 
