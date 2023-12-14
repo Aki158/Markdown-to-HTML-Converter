@@ -147,7 +147,7 @@ pip3 show markdown
 
 2. markdownをインストールする
 ```
-pip install markdown
+pip3 install markdown
 ```
 
 3. markdownがインストールされたことを確認する。<br>Name/Version/Summaryなどが表示されていれば、markdownのインストールは完了です!
