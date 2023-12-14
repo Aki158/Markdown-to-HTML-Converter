@@ -132,7 +132,7 @@ pip3 --version
 
 ### markdown
 
-markdownは、MarkdownをHTMLへ変換する機能を提供しているライブラリです。
+markdownは、MarkdownをHTMLへ変換する機能を提供しているPythonのパッケージです。
 
 pipを使用して、下記手順でインストールしてください。
 
