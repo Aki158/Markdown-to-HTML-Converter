@@ -188,12 +188,12 @@ cd Markdown-to-HTML-Converter
 ### 手順2の補足
 #### コマンドの入力例
 ```
-python3 file-converter.py markdown [inputpath] [outputpath]
+python3 file-converter.py markdown [inputfile] [outputfile]
 ```
 | コマンド | 内容 |
 | ------- | ------- |
-| `[inputpath]`| 手順1.で用意したファイルのパスを入力します。<br>パスには、用意したファイルの名前まで含めてください。 |
-| `[outputpath]`| スクリプトを利用することで、生成されるファイルのパスを入力します。<br>パスには、生成されるファイルの名前まで含めてください。 |
+| `[inputfile]`| 手順1.で用意したファイルのパスを入力します。<br>パスには、用意したファイルの名前まで含めてください。 |
+| `[outputfile]`| スクリプトを利用することで、生成されるファイルのパスを入力します。<br>パスには、生成されるファイルの名前まで含めてください。 |
 
 #### コマンドの入力使用例
 ```
