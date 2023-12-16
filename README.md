@@ -217,6 +217,13 @@ python3 file-converter.py markdown ../python_practice/sample.md ../python_practi
 <tr>
   <td>VirtualBox</td>
 </tr>
+<tr>
+  <td rowspan=2>その他</td>
+  <td>Git</td>
+</tr>
+<tr>
+  <td>Github</td>
+</tr>
 </table>
 
 ## 👀機能一覧
