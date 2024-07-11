@@ -234,18 +234,6 @@ python3 file-converter.py markdown ../python_practice/sample.md ../python_practi
 | markdown | markdownをhtmlに変換します。 |
 | エラーハンドリング | コマンドが正しく入力されていない場合は、下記のようなメッセージが表示されて終了します。<br>・inputpathが存在しない場合:`Inputfile does not exist...`<br>・入力されるコマンドが4つではない場合:<br>　`　Wrong usage!`<br>　`useage : python3 file-converter.py markdown inputfile outputfile`<br>入力されたコマンドが、markdownでない場合:`Command not found...` |
 
-## 📜作成の経緯
-⭐️後で記載する!!!
-
-作成した理由を記載する。
-
-## ⭐️こだわった点
-⭐️後で記載する!!!
-
-テキストや参考にした記事などを再度読み返して技術の理解を深めてから書く。
-
-ここがエンジニアに一番読んでもらいたい箇所なのでできるだけ詳細に書く。
-
 ## 📮今後の実装したいもの
 - [x] オンラインでエディタに記述したMarkdownをHTMLへ変換できるサービスを作成する
 
